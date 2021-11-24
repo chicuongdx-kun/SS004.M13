@@ -12,6 +12,7 @@ Năm học: 2021-2022
 | MSSV | Tên | Mail |
 |-----|------|------|
 |1951299|Nguyễn Chí Cường|19521299.gm.uit.vn|
+|19521690|Phạm Ngọc Khiêm|19521690@gm.uit.edu.vn|
 
 # Đồ án
  Làm game con rắn (snake game)
