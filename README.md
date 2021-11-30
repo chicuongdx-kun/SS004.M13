@@ -11,7 +11,7 @@ Năm học: 2021-2022
 
 | MSSV | Tên | Mail |
 |-----|------|------|
-|1951299|Nguyễn Chí Cường|19521299.gm.uit.edu.vn|
+|1951299|Nguyễn Chí Cường|19521299@gm.uit.edu.vn|
 |20521559|Nguyễn Tô Ngọc Lợi|20521559@gm.uit.edu.vn|
 |20521786|Đặng Minh Quân|20521786@gm.uit.edu.vn|
 |19521690|Phạm Ngọc Khiêm|19521690@gm.uit.edu.vn|
