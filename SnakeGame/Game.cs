@@ -47,8 +47,6 @@ namespace SnakeGame
             drawFood();
 
             GameTimer.Start();
-            btnRestart.Enabled = false;
-            txtName.Enabled = false;
 
             btnStop.Enabled = true;
         }
@@ -200,16 +198,17 @@ namespace SnakeGame
             //update score
 
             lbScore.Text = (Convert.ToInt32(lbScore.Text) + 1).ToString();
+            // update highscore
         }
 
         private void Stop()
         {
             GameTimer.Stop();
-            btnRestart.Enabled = true;
             btnStop.Enabled = false;
-            txtName.Enabled = true;
 
-            MessageBox.Show("Game Over");
+            new FrmNotice(Convert.ToInt32(lbScore.Text)).ShowDialog();
+
+            StarGame();
         }
 
         protected override bool ProcessCmdKey(ref Message msg, Keys keyData)
@@ -236,6 +235,11 @@ namespace SnakeGame
             }
 
             return base.ProcessCmdKey(ref msg, keyData);
+        }
+
+        private void Game_FormClosing(object sender, FormClosingEventArgs e)
+        {
+            GameTimer.Stop();
         }
     }
 }

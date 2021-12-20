@@ -10,3 +10,7 @@ D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.exe
 D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.pdb
 D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Game.resources
 D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.HighScore.resources
+D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.FrmNotice.resources
+D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\bin\Debug\Newtonsoft.Json.dll
+D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\bin\Debug\Newtonsoft.Json.xml
+D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CopyComplete

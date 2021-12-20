@@ -1,0 +1,5 @@
+{"name": "cha", "score": "2"}
+{"name": "cuong", "score": "9"}
+{"name": "cuong", "score": "0"}
+{"name": "cuongnguye", "score": "1"}
+{"name": "af", "score": "0"}
