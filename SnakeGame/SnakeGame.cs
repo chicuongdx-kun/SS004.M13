@@ -22,6 +22,7 @@ namespace SnakeGame
             DataView top = DataScore.DataSet.DefaultView;
             top.Sort = "Score desc";
             DataScore.HighScore = Convert.ToInt32(top[0]["Score"]);
+
         }
 
         private void PlayGame()
@@ -55,6 +56,11 @@ namespace SnakeGame
         private void HighScoreToolStripMenuItem_Click(object sender, EventArgs e)
         {
             new HighScore().Show();
+        }
+
+        private void btnHelp_Click(object sender, EventArgs e)
+        {
+            new Help().Show();
         }
     }
 }

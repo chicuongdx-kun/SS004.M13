@@ -14,3 +14,4 @@ D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.FrmNotice.r
 D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\bin\Debug\Newtonsoft.Json.dll
 D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\bin\Debug\Newtonsoft.Json.xml
 D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.csproj.CopyComplete
+D:\CLOUDX\Courses\Nam3\SS004\SnakeGame\SnakeGame\obj\Debug\SnakeGame.Help.resources

@@ -3,3 +3,4 @@
 {"name": "cuong", "score": "0"}
 {"name": "cuongnguye", "score": "1"}
 {"name": "af", "score": "0"}
+{"name": "cuong dep trai bo doi qua", "score": "25"}

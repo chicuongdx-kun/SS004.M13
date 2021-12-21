@@ -8,6 +8,7 @@ using System.Data;
 using Newtonsoft.Json;
 using System.IO;
 
+
 namespace SnakeGame
 {
     class DataScore
