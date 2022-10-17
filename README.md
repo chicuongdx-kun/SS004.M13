@@ -1,7 +1,7 @@
 # Giới thiệu môn học
 Tên môn: Kỹ năng nghề nghiệp
 
-Lớp: SS004.M13
+Lớp: SS004.M12
 
 Năm học: 2021-2022
 
